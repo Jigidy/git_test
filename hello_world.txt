@@ -1,0 +1,5 @@
+Second attempt at getting git set up correctly, hopefully is going
+to work well today! Almost had it yesterday, but I had a private
+repo I wanted operating as well that wasn't clicking in, and I 
+also want it to be accessible via my MacBook when I need to do code 
+there. 
