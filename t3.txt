@@ -1,0 +1,1 @@
+Hello this is a test document just typing up to test that I have configured git correctly with VS Code (at least for commits)
